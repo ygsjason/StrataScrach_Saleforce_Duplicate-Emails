@@ -1,1 +1,1 @@
-# StrataScrach_Saleforce_Duplicated-Emails
+# StrataScrach_Saleforce_Duplicate-Emails
